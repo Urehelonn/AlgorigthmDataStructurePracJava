@@ -74,3 +74,4 @@ fabric.properties
 
 #For current repo's user setting
 .idea
+bin/
